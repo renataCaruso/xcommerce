@@ -1,0 +1,68 @@
+.todosOsProdutos {
+    position: relative;
+    width: 700px;
+    height: 900px;
+    background: #F3F5F9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.TabTodos {
+    width: 100%;
+    padding-bottom: 70px;
+    position: relative;
+    left: 4%;
+
+}
+
+.AbaMelhores {
+    position: relative;
+    width: 38%;
+    height: 800px;
+    left: 3%;
+    top: 85px;
+
+    background: #F3F5F9;
+    border-radius: 8px;
+
+}
+
+.setasPage {
+    position: relative;
+    left: 85%;
+    bottom: 30px;
+    width: 30px;
+    height: 15px;
+}
+
+.busca {
+    width: 300px;
+    height: 35px;
+    position: relative;
+    left: 64%;
+    bottom: 190px;
+}
+
+.TabVendidos{
+    width: 470px;
+    padding-bottom: 70px;
+    position: relative;
+    bottom: 1100px;
+    padding: 10px;
+    left: 5%;
+}
+
+.maisVendidos {
+    width: 500px;
+    height: 900px;
+    background: #F3F5F9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+    
+} 
+
+#__next{
+    width: 100%;
+    height: 950px;
+}
